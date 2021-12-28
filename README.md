@@ -1,5 +1,5 @@
 # protobuf-gogo
-protobuf go demo with gogoprotobuf
+go program demo with gogoprotobuf
 
 ## 准备工作
 
