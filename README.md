@@ -28,7 +28,7 @@ go program demo with gogoprotobuf
 * 设置bin到PATH: `cp  protoc-3.19.1-linux-x86_64/bin/protoc /user/local/bin`
 * 设置include到PATH: `cp  protoc-3.19.1-linux-x86_64/include/* /user/local/include`
 
-## 安装protoc-gen-go插件[可略过]
+## 安装protoc-gen-go插件
 
 * 安装protobuf库文件（普通包）: `go get google.golang.org/protobuf`
 * go1.16以下版本，安装protoc-gen-go插件(二进制): `go get github.com/golang/protobuf/protoc-gen-go`
